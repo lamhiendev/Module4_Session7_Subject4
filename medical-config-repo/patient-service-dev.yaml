@@ -8,6 +8,8 @@ spring:
       ddl-auto: update
 server:
   port: 8081
+app:
+  welcome: "Chào mừng tới BV RikkeiAcademy"
 eureka:
   client:
     register-with-eureka: true
