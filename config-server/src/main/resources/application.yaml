@@ -8,7 +8,5 @@ spring:
           uri: file:///D:/RikkeiSoft_Workspace/Module4_Session6/Microservices
           search-paths: medical-config-repo
           default-label: main
-  profiles:
-    active: native
 server:
   port: 8888
